@@ -4,7 +4,7 @@ Simple tool to send an on-chain message to any address on any Ethereum-based blo
 ## Setup
 
 - Download and install Python 3.9+
-- Install web3py: go to command prompt / terminal, and enter: __pip3 install web3__ (you may have to use '__pip__' instead)
+- Install web3py: go to command prompt / terminal, and enter: _pip3 install web3_ (you may have to use '_pip_' instead)
 - Go to IDLE, open script, edit values and run the script.
 
 ## Donate
