@@ -5,8 +5,9 @@ walletPrivateKey = "Your wallet private key"
 
 whereToSend = "Wallet address to send message to"
 messageToSend = "This is an example message to send. Testing testing 123."
-sendValue = 0.00001
+sendValue = 0
 
+# Setup as default for BSC mainnet
 ethNodeURL = "https://bsc-dataseed.binance.org"
 gasPrice = 5
 
