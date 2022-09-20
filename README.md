@@ -9,4 +9,4 @@ Simple tool to send an on-chain message to any address on any Ethereum-based blo
 
 ## Donate
 
-**0x3054441C49d7B3DB9FA34b008f00f311DD253Ac4**
+0x3054441C49d7B3DB9FA34b008f00f311DD253Ac4
