@@ -3,7 +3,7 @@
 walletAddress = "Your wallet address to send message from"
 walletPrivateKey = "Your wallet private key"
 
-whereToSend = "Wallet address to send message to"
+whereToSend = "Wallet address to send message to (can be your own wallet address)"
 messageToSend = "This is an example message to send. Testing testing 123."
 sendValue = 0
 
